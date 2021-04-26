@@ -6,7 +6,6 @@
 </p>                                         
 
 ![GitHub User's stars](https://img.shields.io/github/stars/lphuong304?style=social)
-[![GitHub followers](https://img.shields.io/github/followers/lphuong304.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/lphuong304?tab=followers) 
 ![GitHub watchers](https://img.shields.io/github/watchers/lphuong304/CS114.L21?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/lphuong304?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/lphuong304/CS114.L21?style=social)
