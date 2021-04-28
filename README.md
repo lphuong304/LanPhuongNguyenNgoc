@@ -22,6 +22,7 @@ I am stuying Computer Science at University of Information and Technology :compu
   <img alt="Python" src="https://img.shields.io/badge/-Python-1a73e8?style=flat-square&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat&logo=c%2B%2B" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1a73e8?style=flat-square&logo=mysql&logoColor=white." />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-1a73e8?style=flat-square&logo=html5&logoColor=white." />
   
 </p>
 
