@@ -13,7 +13,7 @@
 
 ### ABOUT ME
   
-I am stuying Computer Science at University of Information and Technology :computer: . I have a passion for being a Data Scientist in the future. Now I am working for Associated Organ of Vietnamese Students' Association, Faculty of Computer Science for the field of Media Marketing as the role of Content Marker as well as Graphic Designer (at entry level) :alien:. I am good at using Adobe Photoshop and especially Adobe Illustor. In additionally, I get insights about some programing language such as Python, My SQL, C++. I am on my way to achive to get master on AI, Machine Learning, Deep Learnig, Computer Vision and Data Visualization. :trophy: :wave:
+I am studying Computer Science at the University of Information and Technology 💻 . I have a passion for being a Data Scientist in the future. Now I am working for the Associated Organ of Vietnamese Students' Association, Faculty of Computer Science for the field of Media Marketing as the role of Content Marker as well as Graphic Designer (at entry level) 👽. I am good at using Adobe Photoshop and especially Adobe Illustrator. In addition, I get insights into some programming languages such as Python, My SQL, C++. I am on my way to achieve get master in AI, Machine Learning, Deep Learning, Computer Vision and Data Visualization. 🏆 👋
   
 
 ### I CODE WITH
