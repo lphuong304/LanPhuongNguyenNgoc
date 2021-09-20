@@ -9,11 +9,11 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/lphuong304/CS114.L21?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/lphuong304?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/lphuong304/CS114.L21?style=social)
-<h1 align="center"><sub> :point_down: Here is the information about me :point_down:<sub></h1>
+<h1 align="center"><sub> :point_down: Here is some information about me :point_down:<sub></h1>
 
 ### ABOUT ME
   
-I am studying Computer Science at the University of Information and Technology 💻 . I have a passion for being a Data Scientist in the future. Now I am working for the Associated Organ of Vietnamese Students' Association, Faculty of Computer Science for the field of Media Marketing as the role of Content Marker as well as Graphic Designer (at entry level) 👽. I am good at using Adobe Photoshop and especially Adobe Illustrator. In addition, I get insights into some programming languages such as Python, My SQL, C++. I am on my way to achieve get master in AI, Machine Learning, Deep Learning, Computer Vision and Data Visualization. 🏆 👋
+I am studying Computer Science at the University of Information and Technology 💻 . I have a passion for being a Data Scientist in the future. Now I am working for the Associated Organ of Vietnamese Students' Association, Faculty of Computer Science for the field of Media Marketing as the role of Content Marker as well as Graphic Designer👽. I am good at using Adobe, especially Adobe Illustrator. In addition, I put into learning some programming languages such as Python, My SQL, C++, CSS, PHP,... In recent times, I am on my way to achieve get master in AI, Machine Learning, Deep Learning, Computer Vision and Data Science. 🏆 👋
   
 
 ### I CODE WITH
@@ -23,7 +23,8 @@ I am studying Computer Science at the University of Information and Technology �
   <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1a73e8?style=flat-square&logo=mysql&logoColor=white." />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-1a73e8?style=flat-square&logo=html5&logoColor=white." />
-  
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1a73e8?style=flat-square&logo=css&logoColor=white." />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-1a73e8?style=flat-square&logo=php&logoColor=white." />
 </p>
 
 ### YOU CAN FIND ME AT
