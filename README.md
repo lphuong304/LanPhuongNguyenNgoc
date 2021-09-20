@@ -5,10 +5,12 @@
   </a>
 </p>                                         
 
+
 ![GitHub User's stars](https://img.shields.io/github/stars/lphuong304?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/lphuong304/CS114.L21?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/lphuong304?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/lphuong304/CS114.L21?style=social)
+
 <h1 align="center"><sub> :point_down: Here is some information about me :point_down:<sub></h1>
 
 ### ABOUT ME
