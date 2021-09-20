@@ -23,7 +23,7 @@ I am studying Computer Science at the University of Information and Technology ð
   <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1a73e8?style=flat-square&logo=mysql&logoColor=white." />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-1a73e8?style=flat-square&logo=html5&logoColor=white." />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1a73e8?style=flat-square&logo=css&logoColor=white." />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1a73e8?style=flat-square&logo=css3&logoColor=white." />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-1a73e8?style=flat-square&logo=php&logoColor=white." />
 </p>
 
