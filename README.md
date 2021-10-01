@@ -20,6 +20,7 @@ I am studying Computer Science at the University of Information and Technology ð
 
 ### I CODE WITH
 <p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-1a73e8?style=flat-square&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B" />
